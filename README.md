@@ -97,14 +97,5 @@ I'm driven by the challenge of finding signals in noisy data and applying mathem
 ---
 
 <div align="center">
-
-### 💭 *"The only thing we know is that we know nothing."*
-
-
-</div>
-
----
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
