@@ -43,7 +43,7 @@ I'm driven by the challenge of finding signals in noisy data and applying mathem
 <tr>
 <td width="50%" valign="top">
 
-### 📈 [Pairs Trading from Scratch](https://github.com/Bracetheface/pairs-trading-model)
+### 📈 [Pairs Trading from Scratch](https://[github.com/Bracetheface/pairs-trading-model](https://github.com/Bracetheface/python-pairs-trading-model))
 **A Foundational Statistical Arbitrage Model**
 - Implemented a linear regression from scratch to determine the hedge ratio between two synthetic, cointegrated assets.
 - Generated trading signals using rolling Z-scores of the calculated price spread.
