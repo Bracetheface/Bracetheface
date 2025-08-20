@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## 🚀 Aspiring Quantitative Trader | Final Year Undergrad | Market Dynamics Explorer
+## 🚀 Aspiring Data/Finance Analyst | Final Year Undergrad | Market Dynamics Explorer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=Aspiring+Quantitative+Analyst;Exploring++Commodity+Markets;Developing+with+Python;Leveraging+Statistical+Analysis)](https://git.io/typing-svg)
 
@@ -11,9 +11,9 @@
 ---
 
 ## 🎯 **Current Focus**
-I'm a final-year student with a demonstrated passion for quantitative finance, prop trading, commodities and global macro markets. I'm actively developing my skills in Python, data analysis, and algorithmic strategy development to pursue a career on the buy-side. 
+I'm a final-year student with a demonstrated passion for quantitative finance, dat science, commodities and global macro markets. I'm actively developing my skills in Python, data analysis, and algorithmic strategy development to pursue a career on the buy-side. 
 
-I'm driven by the challenge of finding signals in noisy data and applying mathematical models to real-world market dynamics.
+I'm driven by the challenge of finding signals in noisy data and applying mathematical models for actionable strategies.
 
 ---
 
