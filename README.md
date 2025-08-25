@@ -11,7 +11,7 @@
 ---
 
 ## 🎯 **Current Focus**
-I'm a final-year student with a demonstrated passion for quantitative finance, dat science, commodities and global macro markets. I'm actively developing my skills in Python, data analysis, and algorithmic strategy development to pursue a career on the buy-side. 
+I'm a final-year student with a demonstrated passion for quantitative finance, data science, commodities and global macro markets. I'm actively developing my skills in Python, data analysis, and algorithmic strategy development to pursue a career on the buy-side. 
 
 I'm driven by the challenge of finding signals in noisy data and applying mathematical models for actionable strategies.
 
